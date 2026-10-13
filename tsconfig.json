@@ -1,15 +1,3 @@
 {
-    // https://nuxt.com/docs/guide/concepts/typescript
-    "files": [],
-    "references": [
-        {
-            "path": "./.nuxt/tsconfig.json"
-        },
-        {
-            "path": "./.nuxt/tsconfig.server.json"
-        }
-    ],
-    "compilerOptions": {
-        "lib": ["esnext", "dom", "dom.iterable"]
-    }
+  "extends": "./.nuxt/tsconfig.json"
 }

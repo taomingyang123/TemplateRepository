@@ -1,4 +1,0 @@
-
-User-agent: * 禁止所有爬虫
-Disallow: / 禁止爬取任何内容
-
